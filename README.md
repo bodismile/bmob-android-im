@@ -1,6 +1,6 @@
 # Bmob即时聊天开发组件
 
-具体介绍和效果图可参看：http://www.eoeandroid.com/thread-497765-1-1.html和http://www.eoeandroid.com/thread-546034-1-1.html
+具体介绍和效果图可参看：http://www.eoeandroid.com/thread-497765-1-1.html
 
 ## 实现功能
 
