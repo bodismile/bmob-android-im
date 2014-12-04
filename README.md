@@ -1,5 +1,7 @@
 # Bmob即时聊天开发组件
 
+具体介绍和效果图可参看：http://www.eoeandroid.com/thread-497765-1-1.html和http://www.eoeandroid.com/thread-546034-1-1.html
+
 ## 实现功能
 
 1. 支持好友管理功能，包括添加好友、删除好友、获取好友列表，也可以与你已有的用户系统完全解耦；
